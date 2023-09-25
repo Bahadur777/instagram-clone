@@ -18,6 +18,7 @@ const Post = ({imgUrl, userName, caption}) => {
       </div>
       <div className="post-text">
         <h4> <strong>Bahadur</strong> {caption}</h4>
+        
       </div>
     </div>
   )
