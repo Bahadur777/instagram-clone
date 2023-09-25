@@ -1,0 +1,23 @@
+.post{
+    border: 1px solid lightgray;
+    max-width: 500px;  
+}
+.post-header{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+.userName{
+    margin-left: 6px;
+}
+.post-image{
+  width: 100%; 
+}
+.post-img-image{
+    width: 100%;
+    object-fit: contain;
+}
+.post-text{
+    font-weight: normal;
+    padding: 20px;
+}
