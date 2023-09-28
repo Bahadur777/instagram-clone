@@ -18,6 +18,18 @@ const App = () => {
       caption:"caption is here",
       imgUrl:"https://cdn.pixabay.com/photo/2013/05/11/08/28/sunset-110305_640.jpg"
     },
+    {
+      id: 0,
+      userName: "shihab mia",
+      caption:"caption is here",
+      imgUrl:"https://cdn.pixabay.com/photo/2013/05/11/08/28/sunset-110305_640.jpg"
+    },
+    {
+      id: 0,
+      userName: "shihab mia",
+      caption:"caption is here",
+      imgUrl:"https://cdn.pixabay.com/photo/2013/05/11/08/28/sunset-110305_640.jpg"
+    },
     
   ]);
   useEffect(() =>{
